@@ -1,4 +1,4 @@
-Git i a distributed version control system.
+Git distributed 4564565 version control system.
 devjiajiajia
 Git is free software distributed under the GPL.
 Git has222 a mutable index called stage.
