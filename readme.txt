@@ -3,5 +3,6 @@ Git is free software distributed under the GPL.
 Git has222 a mutable index called stage.
 Git tracks changes of files.
 My stupid boss still prefers SVN.
-feature 20:45
+feature
 fe 20:43
+修改1
